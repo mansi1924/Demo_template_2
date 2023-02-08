@@ -9,7 +9,9 @@
 .pt-70 {
     padding-top: 70px;
 }
-
+.pt-80{
+    padding-top: 100px;
+}
 .pb-120 {
     padding-bottom: 120px;
 }
@@ -44,4 +46,10 @@
 
 .pb-80 {
     padding-bottom: 80px;
+}
+.mt-105{
+    margin-top: 105px;
+}
+.mt-120{
+    margin-top: 140px;
 }
